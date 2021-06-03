@@ -1,0 +1,360 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A sermon deliuered in Oxford Concerning the Apostles preaching and ours. By Richard Iames Bachelor of Diuinitie, and fellow of C.C.C. in Oxford.</title>
+            <author>James, Richard, 1592-1638.</author>
+         </titleStmt>
+         <extent>Approx. 48KB of XML-encoded text transcribed from 15 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B14203</idno><idno type="EEBO-CITATION">99843371</idno>
+  <idno type="VID">177002</idno>
+  <idno type="EEBO-PROQUEST">2240897891</idno>
+  <idno type="STC">STC 14443</idno>
+  <idno type="STC">ESTC S107675</idno>
+  
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99843371e"/>
+            <note>(EEBO-TCP ; phase 2, no. B14203)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 177002)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 741:07)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A sermon deliuered in Oxford Concerning the Apostles preaching and ours. By Richard Iames Bachelor of Diuinitie, and fellow of C.C.C. in Oxford.</title>
+                  <author>James, Richard, 1592-1638.</author>
+               </titleStmt>
+               <extent>[54] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by William Stansby, for Nathaniel Butter,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1630.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"A sermon deliuered in Oxford. Concerning the obseruation of Lent-fast" has separate dated title page; register is continuous.</note>
+                  <note>Signatures: A²  B-C⁴ [D]⁴ E-G⁴ [H]¹.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-01 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Olivia Bottum </label>Sampled and proofread </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:177002:1"/>
+            <pb facs="tcp:177002:1"/>
+            <p>A SERMON DELIVERED IN OXFORD. Concerning the Apostles Preaching and ours.</p>
+            <p>
+               <hi>By</hi> RICHARD IAMES <hi>Bachelor of</hi> Diuinitie and Fellow of <hi>C.C.C.</hi> in OXFORD.</p>
+            <q>
+               <bibl>HORAT,</bibl>
+               <hi>Non ego ventosae plebis suffragi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> venor.</hi>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed by WILLIAM STANSBY, for NATHANIEL BVTTER, 1630.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:177002:2"/>
+            <pb facs="tcp:177002:2"/>
+            <head>TO My Noble Friend, Sir ROBERT COTTON.</head>
+            <p>
+               <seg rend="decorInit">D</seg>Eare SIR <hi>Robert Cotton,</hi> this little <hi>Treatise</hi> hath a long time, (according to HORACES aduice) layen in season with my owne iudgement. And now it desires to come forth into the Worlds vse. from your acceptance. Pray Sir re<g ref="char:EOLhyphen"/>ceiue it kindly, as you haue done me for the space of more then foure yeares,
+<pb facs="tcp:177002:3"/>cherishing both my Life and Lear<g ref="char:EOLhyphen"/>ning. So, if Gods pleasure bee to finde mee out a happie leasure, I shall euer striue to expresse greater thank<g ref="char:EOLhyphen"/>fulnesse, and rest,</p>
+            <closer>
+               <signed>Your most faithfull Seruant, RICH. IAMES.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb facs="tcp:177002:3"/>
+            <head>THE HISTORY OF LENT-FAST.</head>
+            <p>
+               <seg rend="decorInit">Y</seg>Ou must not deeme it a tricke and affe<g ref="char:EOLhyphen"/>ctation of noueltie, if I now prefer<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e no Text vnto my Sermon. It might be from the example of <hi>Nazianzene,</hi> and <hi>Ambrose,</hi> and <hi>Chrysostome,</hi> in their Homilies, and Panegyricks, and Orations vnto the people. But indeed I could not finde any conuenient Text of Scripture from whence aptly to deriue my dis<g ref="char:EOLhyphen"/>course vnto you, and therefore I haue proposed none. Yet I will not wander either in my selfe or from the ex<g ref="char:EOLhyphen"/>pectation of this time. My discourse shall haue at least some certaine title and name vnto a sense. It shall bee concerning the present time of <hi>Lent.</hi> And as of subiect, so of habit; <hi>Simplex munditijs.</hi> A plain <hi>Lent-History,</hi> with<g ref="char:EOLhyphen"/>out varnish and florish of words. I desire not so to <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>atch your applause; or with no memory and no Text to make my selfe a fable of the towne. But if I may haue your fauour and patience, and ciuilitie. <hi>Tradam inprimit
+<pb facs="tcp:177002:4"/>vo<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>is quod &amp; accepi.</hi> I will especially and onely deliuer vnto you such things as I haue learnt either from experi<g ref="char:EOLhyphen"/>ence or reading.</p>
+            <p>And so to begin without more tediousnesse of pre<g ref="char:EOLhyphen"/>face; consider with me for <hi>Lent,</hi> first of the authoritie by which it hath beene for so many ages ordain'd and continued in the Church. Secondly, of the pra<g ref="char:EOLhyphen"/>ctice, and vse and abuse of <hi>Lent</hi> in the Christian world. <hi>Lent</hi> in our English and mother tongue giues no eui<g ref="char:EOLhyphen"/>dence vnto the Ecclesiasticall nature and ceremonie of the time being deriued from a word which to the Dutch signifies either the Spring season, or longitude; be<g ref="char:EOLhyphen"/>cause our <hi>Lent</hi> falls in the spring of the yeare, when the dayes doe more apparantly grow long of light and houres: but in other tongues the word is more concer<g ref="char:EOLhyphen"/>ning. In <hi>Slauonish, Lent</hi> is called <hi>Gouenia,</hi> the reuerend time, as in which the stirre of dyet and luxurie seemes somewhat restrained, and all gainesse of clothes, and pompe of maskes, and sports, and triumphes faine to yeeld one while and space vnto the more modest be<g ref="char:EOLhyphen"/>hauiour and simplenes of Religion, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, saith Saint <hi>Chrysostome.</hi> There is in <hi>Lent</hi> a kinde of reuerend solitude and calme of the yeare, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. And the phantasie and conceipt of worldly things is set apart, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, when there is no gaping and raw<g ref="char:EOLhyphen"/>ling and hurrie, and currying vp and downe with cookes and slaughters of sheepe and beeues. Another word the <hi>Slauonians</hi> haue also to expresse the nature of the time, and that is <hi>Chetverodes atnitsa,</hi> in which they agree with many other moderne tongues, who call it in a like man<g ref="char:EOLhyphen"/>ner, <hi>Quaresme, Quaresma, Quaresima, Quadragesima,</hi>
+               <pb facs="tcp:177002:4"/>in imitation of the Greeke originall word <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> which signifies the space or ceremonie of 40. dayes. 'Tis the obseruation of many, of <hi>Eusebius, Socrates, Zozo<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e<g ref="char:EOLhyphen"/>ne, Cassiodorus, Nicephorus,</hi> that although in diuers coun<g ref="char:EOLhyphen"/>treyes the number of the dayes were in some places more, in others lesse, yet all called the fast before Easter, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, The fast of 40. Some saith <hi>Eusebius</hi> are of opi<g ref="char:EOLhyphen"/>nion, that we ought to fast but one day before <hi>Easter,</hi> some will fast two, some more, many forty. They bee the words of <hi>Irenaeus</hi> vnto <hi>Victor</hi> Bishop of Rome. And because the last are not fully translated according to the sense of the Originall, receiue it thus. There is not saith hee onely difference about the day of Easter, but also for the manner of the faste. Some thinke they ought to faste but one day, some two, some more; some fasting but one, measure their day by 40. houres of day and night together. <hi>Irenaeus</hi> seems to intimate a manner a<g ref="char:EOLhyphen"/>mongst the Christians of fasting 40. houres in resem<g ref="char:EOLhyphen"/>blance of Christs 40. dayes; of which in place. Some saith <hi>Sozomene</hi> reckon sixe weekes for their faste, as the <hi>Illyrians,</hi> and the more <hi>Westerne</hi> people, with all <hi>Lybia</hi> and <hi>Egypt,</hi> and <hi>Palestina.</hi> Some number seuen, as the people of Constantinople, and the bordering Nations, so farre as the <hi>Phenicians.</hi> Some fast 3. weeks of dayes in sixe or seuen weeks; some three immediately before <hi>Easter;</hi> some two, as the sectaries of <hi>Montanus;</hi> and of these mens three annuall fastes we also reade in S. <hi>Ie<g ref="char:EOLhyphen"/>rome, Socrates</hi> againe repeates the like varietie. For those saith hee who are of <hi>Rome,</hi> Saturday and Sunday ex<g ref="char:EOLhyphen"/>cepted, doe fast three weekes before <hi>Easter.</hi> Those of <hi>Illyria</hi> and all <hi>Greece,</hi> and all that dwell at <hi>Alexandria,</hi> begin their <hi>Easter-fast</hi> sixe weekes before the day. Some
+<pb facs="tcp:177002:5"/>again<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> begin their faste seuen weekes before, though in those they fast but 15. dayes at seuerall times. Now if concerning this difference of the obseruance, and yet so generall agreement for the name of forty dayes, wee search a reason of antiquitie, peraduenture wee shall better vnderstand the nature, valew and authoritie of this institution, which hath giuen vnto vs the custo me of <hi>Lent,</hi> for so necessary discipline of the Church. First, 'tis not the answere, but the wonder of <hi>Socrates</hi> in the fift booke of his Ecclesiasticall history, the 22. Chapter, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. Diuers, saith hee, stirring vp their wits and braines curiously, haue giuen diuers reasons, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. But for my selfe, I cannot choose but wonder, <hi>Cassianus</hi> in his 21. Collation, although hee could bee well content, <hi>vt pia simplicitas huius rei amputaret quaestionem.</hi> That a re<g ref="char:EOLhyphen"/>ligious simple ignorance should relieue the hazard of a resolution, and doth confesse, <hi>quod protecto rationem hu<g ref="char:EOLhyphen"/>ius rei humana obliterarit incuria.</hi> That indeed the heed<g ref="char:EOLhyphen"/>lesse incuriousnesse of times hath blurd the certaine and true answere; And that no <hi>Lent</hi> at all was obseru'd in the fresh Primitiue Church; and to stop a replie of dis<g ref="char:EOLhyphen"/>cerning men, hath so begun his 20. Chapter. <hi>Hâc igitur Quadragesimae lege, huius exigui canonis subiectione qui iu<g ref="char:EOLhyphen"/>stus atque perfectus est non tenetur,</hi> That good wise men are not bound vnder so poore canonicall obedience: yet to seeme ignorant of nothing altogether in a question of lay people. <hi>Legi deest quicquid contigerit onorari,</hi> It seemes no Law saith S<seg rend="sup">t</seg>. <hi>A<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>stin</hi> of which the Priest can giue no reason, to feed Lay beliefe, whose guts were sore<g ref="char:EOLhyphen"/>ly griped with this Religion, at last he straines an answere with <hi>fortasse,</hi> peraduenture. <hi>Fortasse vel propter hoc vi<g ref="char:EOLhyphen"/>sum
+<pb facs="tcp:177002:5"/>sit;</hi> peraduenture all haue thought good to call the <hi>
+                  <gap reason="illegible" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>ster-fast</hi> by the name of 40. dayes, because wee read <gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>at for forty dayes, <hi>Moses</hi> and <hi>Elias,</hi> and our Sauiour <gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>pt an entire <hi>Fast</hi> in the old and new Testament; or <gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>cause in dayes we may represent those yeares for the <gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>ace of which the residue of the Iewes wandered in a <gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>ldernesse betwixt <hi>Egypt</hi> and the Holy Land. These <gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>d such like are the arguments of <hi>Lent,</hi> which I rehearse <gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>ther vnto your censure then memorie. And two of <gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>ese arguments and authorities for <hi>Lent,</hi> I finde to bee <gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> credit with S<seg rend="sup">t</seg>. <hi>Austin</hi> in his 19. Epistle vnto <hi>Ianu<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>ius, Quadragesima sanè i<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>iuniorum habet authoritatem, <gap reason="illegible" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>ent,</hi> saith hee, hath authoritie for a <hi>Faste,</hi> in the old <gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>estament from the <hi>Fast</hi> of <hi>Moses</hi> and <hi>Elias;</hi> and in the <gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>ew, because our Sauiour likewise fasted the same num<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>er; <hi>demonstrans Euangelium non distare à Lege &amp; Prophe<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>,</hi> shwing by such example, that the Gospell did not di<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>r from the Law and the Prophets. Another autho<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>tie for our <hi>Lent-fast</hi> of forty dayes, hee hath there gi<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>en also from some mysterie of the number, which I <gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>ould willingly translate vnto you, were not the per<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>lexitie and riddle of his <hi>Pythogoricall Arithmeticke</hi> too <gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>ard for a mixt auditorie. I thinke hee might say of <gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>hat in respect of most men, as <hi>Petrarch</hi> did sometimes <gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>f an obscure Sonnet; <hi>Intenda mi chi puo, che m'intend <gap reason="illegible" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>.</hi> Vnderstand who can, I vnderstand my selfe, yet per<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>duenture this authority with S<seg rend="sup">t</seg>. <hi>Austin</hi> was of most <gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>rice by a rule which hee hath in the same Epistle. <hi>Sed <gap reason="illegible" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>amenita se habet.</hi> But it comes so to passe, that a thing <gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>ntimated by allegoricall signification is more mouing and affecting, and so more honoured, <hi>quàm si verbis <gap reason="illegible" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>roprijs diceretur apertissimè,</hi> then if in proper cloquence
+<pb facs="tcp:177002:6"/>the same thing should bee vnfolded most perspicu<g ref="char:EOLhyphen"/>ously.</p>
+            <p>But howsoeuer, or at what rate soeuer either hee or any other may seeme to valew such mysteries, yet in his 86. Epistle to <hi>Casulanus</hi> speaking of <hi>Moses</hi> and <hi>Elias,</hi> and the <hi>Faste</hi> of many other holy men in Scrip<g ref="char:EOLhyphen"/>ture, he concludes in these words. <hi>Haec exempla San<g ref="char:EOLhyphen"/>ctorum nec ad persuadendum cuiuscunque diei ieiunium valent.</hi> The examples of these holy men enforce not a <hi>Faste</hi> vpon any certaine time. And againe in the same Epistle towards the end, hee speakes more plainly. <hi>Quibus autem diebus oporteat ieiunare praecepto Domini vel Apostolorum non inuenio definitum.</hi> I finde, saith he, no precept either of our Sauiour or his Apostles de<g ref="char:EOLhyphen"/>termining on what dayes fasting ought to bee obser<g ref="char:EOLhyphen"/>ued. And to this agrees also S<seg rend="sup">t</seg>. <hi>Chrysostome,</hi> as we may reade in a Homelie of his in the 6. <hi>Tome</hi> of our edition, <hi>pag.</hi> 381. where he sayes, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, at the begin<g ref="char:EOLhyphen"/>ning and anciently men receiu'd the Sacrament when they pleas'd, but especially at this time of his passion, which afterwards gaue occasion for an assembly of Fa<g ref="char:EOLhyphen"/>thers to designe the <hi>Faste</hi> of 40. dayes.</p>
+            <p>Now although there bee more alike trifling autho<g ref="char:EOLhyphen"/>rities for the establishment of <hi>Lent,</hi> by some rela<g ref="char:EOLhyphen"/>ted, by others peremptorily enforced, it suffices me in these two to giue you some short censure and estimate of the rest. For the last it consists onely on a deuice of number, and how small proofe numbers are amongst men who will not suffer their vnderstanding to bee cousened with a phantasie is to me most cleare and eui<g ref="char:EOLhyphen"/>dent. I know numbers are much made of by <hi>Hilarie,
+<pb facs="tcp:177002:6"/>Ierome</hi> in some places, a hundred times as <hi>Mirandula</hi> tels vs by <hi>Basill, Nazianzene, Ambrose, Origen, Austin,</hi> and others. The Ecclesiasticall Doctors are in this re<g ref="char:EOLhyphen"/>spect busie; <hi>vs{que} ad curositatem si dici potest,</hi> euen vnto curiositie, if a man may haue leaue to speake truth, who can read or heare with patience when they talke of per<g ref="char:EOLhyphen"/>fect happie numbers, as 3.9.4.12.50.7. and numbers vnluckie. as 40.20.2.8. <hi>credat Iudaeus,</hi> let the circum<g ref="char:EOLhyphen"/>ciz'd <hi>Cabalist Iew,</hi> belieue them if hee please, and the mysterious <hi>Pythagorean</hi> who feares to eate beans. For my selfe I constantly auouch the rule of <hi>Melancthon. Quanti<g ref="char:EOLhyphen"/>tatum nulla est efficacia, Quantities</hi> and numbers haue not the vertue to effect in nature or commend in manners and customes, we may <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> as <hi>Iulian</hi> speakes sport out a commendation of some things from numbers in a priuate familiar Epistle, such as his is vnto his friend <hi>Serapion,</hi> endeering a gift of Damaske-sigs, because they were a hundred. For <hi>Iupiters</hi> buckler had in <hi>Homer</hi> a hundred tassels, strong <hi>Briareus</hi> a hundred hands. <hi>A<g ref="char:EOLhyphen"/>pollo</hi> slew the serpent <hi>Python</hi> with a hundred shafts. <hi>Crete</hi> had a hundred Cities. <hi>Thebes,</hi> a hundred Gates, and a Hecatombe is a magnificent Sacrifice. But articles of Creed and Christianitie are not so easily to be taken <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nto reuerence. And S<seg rend="sup">t</seg>. <hi>Chrysostome</hi> hath giuen a iust censure against all such wizards of Arithmeticke in his 24. Ho<g ref="char:EOLhyphen"/>melie vpon <hi>Genesis,</hi> at the 2. verse of the 6. Chapter Of euery cleane beast thou shalt take with the 7. and 7. but of vncleane cattell. 2. <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. Many finde out strange Muthologies and fables vpon these words, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, cunning notes of <hi>Num<g ref="char:EOLhyphen"/>bers:</hi> but as hee there goes forward, their labour was, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, an vnseasonable curiositie, from
+<pb facs="tcp:177002:7"/>which <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, most heresies haue had their birth and beginning. Concerning the former argument for <hi>Lent</hi> from <hi>Moses</hi> and <hi>Eliat</hi> and our Saui<g ref="char:EOLhyphen"/>our you haue already heard how S<seg rend="sup">t</seg>. <hi>Austin</hi> hath re<g ref="char:EOLhyphen"/>tracted and vnsaid himselfe. And for my part I haue here<g ref="char:EOLhyphen"/>in more wonder then reproofe, were there no humane examples in the life of Christ, and the connersation of these two Prophets: But wee must vainely follow their miraculous <hi>Faste</hi> with a dainty choyce of abstinence. I heare what S<seg rend="sup">t</seg>. <hi>Austin</hi> once speakes, <hi>Nam ei ad ipsum quadragenarium numerum peruenisse quendam è fratribus fide dignissimis obseruatum est.</hi> For saith hee, 'tis assur'd vnto mee by men of credit that one man did fulfill with perfect abstinence the entire <hi>Faste</hi> of 40. dayes.</p>
+            <p>But consider, if the resemblance of such <hi>Faste</hi> com<g ref="char:EOLhyphen"/>monly, and amongst the most will not giue iust occa<g ref="char:EOLhyphen"/>sion of laughter and contempt to <hi>Iewes</hi> and <hi>Painims?</hi> If we <hi>Faste</hi> at any time to bring our bodies vnder, ti's praise worthy. But how is it to <hi>Faste</hi> from flesh onely, because they did eate nothing? I speake in respect of other Coun<g ref="char:EOLhyphen"/>treyes, where in faste and abstinence from flesh, they eate all sorts of the most lushious fish, Sturgeon and Sammon, and Turbet and Mullet, Crabs, Lobsters, Oisters, Coc<g ref="char:EOLhyphen"/>kles, Caueare, Potargos, Anchouis, a thousand varie<g ref="char:EOLhyphen"/>ties of candied and conseru'd fruits, broths spiced with so many costly ingredients, Pottage of Aemons, of Ma<g ref="char:EOLhyphen"/>carons, of Mushroms, vse in stead of Butter the cleere Rocke-oyles of <hi>Zante, Candie,</hi> or better grounds, and drinke all downe with the most heating wines of <hi>Italie, Spaine, Greece,</hi> which sparkle lust in the glasse. How con<g ref="char:EOLhyphen"/>tracted and ascheticall the Catholique diet is in fish, consider from a Bishop of their owne in a Booke which
+<pb facs="tcp:177002:7"/>I shall againe name. Hee tels vs that <hi>Adrian</hi> the 6. was a man of heauie vnderstanding, and most clownish and insipide of his palate, because hee delighted in a vulgar fish called <hi>Merluccia,</hi> and so buying all vp made it come to bee of high price, <hi>ridente toto foro piscario,</hi> to the scorne of the whole fish-market. And againe hee tels vs from the taste of the learned <hi>Pogius</hi> sonne, a familiar pa<g ref="char:EOLhyphen"/>rasite and Critticke of the Pontificall Tables; that the Sturgeon was in comparison an vnsauorie fish with ex<g ref="char:EOLhyphen"/>uberancie of glutinous brawnie substance, and so fit<g ref="char:EOLhyphen"/>test for the seruants, so they sent in the head swimming in white-broth, whence the Lords might picke some few dainty bits. O what a glut would it be to your eares if I were a <hi>Platina,</hi> able as well to dresse the Popes Kit<g ref="char:EOLhyphen"/>chin as his consistorie. They that please may read his Booke which hee hath written <hi>de obsonijs &amp; pulmentis, quibus praecipue in Romana curia vtantur,</hi> of the meates and gellies, and sauces which are vsed in the Papall Court.</p>
+            <p>How do's indignation sometimes struggle to get forth and giue censure vpon his Masters. <hi>Vidi ego pleros{que},</hi> saith hee, <hi>non Romae modo.</hi> I haue seene very many not at <hi>Rome</hi> onely, <hi>vbi monstra hominum magnâ impensa a<g ref="char:EOLhyphen"/>luntur,</hi> where monsters of men are maintain'd at most excessiue charge, but euery where in the chiefe Cities of <hi>Italie,</hi> I haue seene and knowne many, <hi>pleros{que}</hi> more then a great many, who wearied out with gluttony and often change of dainties, haue sent farre and neere to finde out and hire at any price Cookes that could de<g ref="char:EOLhyphen"/>uise a new dish, to spurre vp their dul'd and surfetted ap<g ref="char:EOLhyphen"/>petite. <hi>Quantum auri dij immortales.</hi> Good God, how much gold hath beene spent in such abuses: but ob<g ref="char:EOLhyphen"/>serue
+<pb facs="tcp:177002:8"/>how he dares not speake the whole truth, and yet shuts vp his discourse in this disdaining manner, <hi>ve<g ref="char:EOLhyphen"/>rum ad instituta redire tutius est, quam hijs bilem irritare qui cum intemperantur viuant, parci tamen ac frugi videri volunt.</hi> But 'tis safest saith he to returne vnto our purpose and leaue prouoking the choller of those men, that liue thus intemperate, and yet will needs be esteemed sparing and thrifty in their diet. If they would indeed faste, and not deceiue the world with an ostentation, let them heare S<seg rend="sup">t</seg>. <hi>Ierome. Fortissimum ieiunium est aqua &amp; panis.</hi> The most pining <hi>Faste</hi> is bread and water, and fittest to subdue the bodie. <hi>Dùm delicias sectamur à regno coelorum retrahimur.</hi> We goe backe from Hea<g ref="char:EOLhyphen"/>uen to find out a dainty choyce of <hi>Fast</hi> in <hi>Merlucciaes</hi> and Sturgeons heads. Such things they may call <hi>Faste</hi> as the <hi>Spaniards</hi> in Prouerbe call Collops and Egges, <hi>duelos y quebrantos,</hi> griefes and complainings. Yet mil<g ref="char:EOLhyphen"/>lions of good men in the world would reioyce and blesse God for plentie of worse meate then these, though they neuer eate mutton in their life.</p>
+            <p>To speake in <hi>Tertullians</hi> words in his second Booke against <hi>Marcion.</hi> Though these spirituall Lordings of <hi>Rome</hi> pretend pennance, <hi>ciborum pretiosa ambitio non de<g ref="char:EOLhyphen"/>trahitur,</hi> an ambitious seruice of high feede is nothing wanting; if it bee then for their commendation of eating no flesh, I willingly againe bestow on them one more authoritie to countenance their <hi>Faste,</hi> from S<seg rend="sup">t</seg>. <hi>Ierome,</hi> who speakes thus, that hogs, and bores, and deere, and other such like Cattell were created to feed Wrestlers, Soldiers, Marriners, Orators, Diggers in mines and other handicraft people, who want not a corpulent robustiousnesse to labour and beate one an<g ref="char:EOLhyphen"/>other,
+<pb facs="tcp:177002:8"/>not for religious men, who should rather say with the Apostle, when I am weake then am I strong. But as I haue before said, it can neuer enter into my be<g ref="char:EOLhyphen"/>leefe, that the Hierarchie of <hi>Rome</hi> doe not praise <hi>Faste</hi> with full stomacks where Cooks are so much valued; Poeticall, miraculous Cooks, with spices and sugars and cyles and a thousand other delicacies are powerfull to force a Metamorphosis of nature in a dish. Heare one Storie out of <hi>Athenaeus</hi> in his first booke. <hi>Nico<g ref="char:EOLhyphen"/>medes</hi> King of <hi>Bythinia,</hi> being in some expedition, as it seemes against the <hi>Scythians</hi> twelue dayes iourney from the Sea, and in the midst of winter, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. Hee long'd for a Pilchard or a Herring, or a Sprat, and presently his Cooke got a Turnip, shap'd it into fashion, and with oyle, salt, and twelue graines of blacke poppie, so deceiu'd his Lords taste, that hee praised the roote vnto his Guests for an excellent fish. If Cookes can make fish of rootes, certainly they can make fish a neerer counterfeit of flesh, and neither fish nor flesh nor rootes of what kinde soeuer bee as otherwise <hi>Cyprian</hi> would call them <hi>sibi innocentes,</hi> in<g ref="char:EOLhyphen"/>nocent vnprouoking meats in the Chargers of Popes, Cardinals, Bishops, Lords and Ladies of monasticall conuersation.</p>
+            <p>Let mee returne, and not ryot out my Discourse. From the example of <hi>Moses, Elias,</hi> and Christ, wee might on both sides learne more concerning beha<g ref="char:EOLhyphen"/>uiour then <hi>F<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ste.</hi> From Christ better then from the Stoique porch, we may learne, that no shame is of any thing but vice. When hee made no method of <hi>Faste,</hi> as did the Pharisees; was sometimes in Com<g ref="char:EOLhyphen"/>panie and friendship with Publicans and drunkardes;
+<pb facs="tcp:177002:9"/>and hee and his Apostles did eate with vnwash't hands: neither fear'd to doe offices of nature and goodnesse on the <hi>Iewes</hi> Sabbath. From <hi>Moses</hi> we may l<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>arne charity vnto men with whom we haue one faith, one God, one Baptisme, a neerer alliance then of flesh and consanguinitie, when hee sayes vnto God in the 32. of <hi>Exodus. Oh, this people haue sinned a great sinne, and haue made them Gods of gold, and now for<g ref="char:EOLhyphen"/>giue them their sinne; or if thou wilt not, wipe mee out of the Booke which thou hast written.</hi> And from <hi>Elias</hi> let vs learne to correct any imagination of our owne so<g ref="char:EOLhyphen"/>litarie Religion, when in the 3. of the <hi>Kings</hi> the 9. Chap<g ref="char:EOLhyphen"/>ter; 'tis the answere of God himselfe vnto his slender conceit of being left a good man alone, at the 18. verse. <hi>And I haue left me seuen thousand in Israel, of which neuer man bowed his knees vnto Idolatry.</hi> From this let our rash giddie puritans learne not to condemne all papists, and the vehement Iesuiticall Catholique not to hurle damna<g ref="char:EOLhyphen"/>tion againe vppon all that haue protested against the in<g ref="char:EOLhyphen"/>finite abuses of the <hi>Romane</hi> tyrannie, but reclaime that their bruitish assertion. <hi>Eum qui credere ausit pertinacem proteflantem posse Saluari, hoc ipso à Catholica fi deexcide<g ref="char:EOLhyphen"/>re.</hi> That hee who belieues the possible saluation of a confident Protestant is an Apostate of the Catholique faith. And thus much be spoken for the authoritie of <hi>Lent,</hi> Which being long since considered by the Au<g ref="char:EOLhyphen"/>thors of the <hi>Helueticke</hi> confession, made them deliuer their opinion in this briefe manner. <hi>Quadragesimale ie<g ref="char:EOLhyphen"/>iunium vetustatis habet testimonia, sed nulia ex literis A<g ref="char:EOLhyphen"/>postolicis: ergo non debet nec potest imponi fidelibus.</hi> It fol<g ref="char:EOLhyphen"/>lowes now that wee also view the practise of this anci<g ref="char:EOLhyphen"/>ent yet vncertaine fasting obseruance.</p>
+            <pb facs="tcp:177002:9"/>
+            <p> Beleeue me, no man in the world is more sparing of preiudice, and yet if I should spare, truth and their owne historie are a Libell against themselues. I am scarce more then a relater, some small learning hath freed mee from affectation or enuy in any subiect of discourse: but I must not faine my selfe blinde, to make other men proud of their eye-sight. Neither doe I boast any pro<g ref="char:EOLhyphen"/>spectiue glasse, to multiply and extend my owne reason. Obserue what I deliuer vnto you in antiquitie and ex<g ref="char:EOLhyphen"/>perience, and as in the authoritie so in the practice, I be<g ref="char:EOLhyphen"/>gin from the Ecclesiasticall Historie which may be easily confirm'd by a hundred collations. 'Tis the obseruation of <hi>Socrates, Nicephorus,</hi> and <hi>Cassiedorus. Nicephorus</hi> hath the fullest relation, and therefore I first cite out of his Hi<g ref="char:EOLhyphen"/>story in the most eminent 34. Chapter of his 12. booke. And the world differs not onely saith he about the num<g ref="char:EOLhyphen"/>ber of dayes, but euen about the qualitie of meates and manner of abstinence. Some <hi>ne animata quidem attin<g ref="char:EOLhyphen"/>gunt;</hi> they will not taste any thing that hath life. Some are bolder, but on fish onely, some eate birds also with fish, because birds and fish in <hi>Moses</hi> Historie of the crea<g ref="char:EOLhyphen"/>tion had their substance from the waters. Some will nei<g ref="char:EOLhyphen"/>ther eate nuts nor egges, nor berries; Some feed one<g ref="char:EOLhyphen"/>ly on the fruit of trees, some on drie bread onely, nei<g ref="char:EOLhyphen"/>ther doe all agree in the same time of taking such diet. Some eate not before the ninth houre, some after Sun<g ref="char:EOLhyphen"/>set; some take their repastes onely euery second day; some abstaine for three or foure or fiue or seuen dayes; <hi>pro eo at{que} quis{que} cibo carere vel vult vel potest,</hi> according as euery man will or hath abilitie to endure without re<g ref="char:EOLhyphen"/>stauration of nourishment.</p>
+            <p>Let me also obserue one thing more in this difference,
+<pb facs="tcp:177002:10"/>whereas of ancient in <hi>Lent</hi> the people did not with permission legall eate any thing vntill Supper; in la<g ref="char:EOLhyphen"/>ter times Suppers haue changed to bee onely irreligi<g ref="char:EOLhyphen"/>ous. That of ancient they did eate no dinners, it ap<g ref="char:EOLhyphen"/>peares from many instances; out of <hi>Cassianus,</hi> where hee makes this question, <hi>Quare per totam Quinqua<g ref="char:EOLhyphen"/>gesimam abstinentiae rigerem prandijs relaxamus,</hi> why in the 50. dayes betwixt <hi>Easter</hi> and <hi>Whitsontide</hi> 'twas the custome againe to refresh the rigor of <hi>Lent-faste</hi> with dining, and as good <hi>Cassander</hi> hath obseru'd vp<g ref="char:EOLhyphen"/>on the Hymmes of the Church; It was once a de<g ref="char:EOLhyphen"/>cree of the <hi>Cabiloon</hi> Counsell that none should dare eate any thing in <hi>Lent</hi> vntill euening prayer were en<g ref="char:EOLhyphen"/>ded. To performe which in shew after-ward, as hee there tells vs, <hi>consuetudo inoleuit,</hi> the custome grew familiar, that in <hi>Lent</hi>-time presently after <hi>Mattens,</hi> they did againe begin their <hi>Euening prayer,</hi> which by order of the Canon should not haue beene done vntill the 12. and last houre of the day. And so by an in<g ref="char:EOLhyphen"/>dulgencie, or exigencie rather of peoples stomacks they did in times following come to an order of dining on<g ref="char:EOLhyphen"/>ly, and 'twas deem'd a great sinne to make Suppers; whence <hi>Erasmus</hi> speakes in the voyce of vulgar ap<g ref="char:EOLhyphen"/>prehension. <hi>Et tamen toto passim orbe coenatur affatim nullus offenditur;</hi> Though wee now eate no flesh in <hi>Lent,</hi> yet euery where wee cate Suppers and there be none offended. <hi>In Anglia vulgus Quadragesimae tem<g ref="char:EOLhyphen"/>pore caenam iustam apparatalternis diebu nemo miratur.</hi> In <hi>Lent</hi> time the people through <hi>England,</hi> euery other day prouide a set meale at night and no man wonders at the heresie. <hi>Si tentes idem extra Quadragesimam nemo f<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ret;</hi> and yet none as hee there goes forwar'd by a custome
+<pb facs="tcp:177002:10"/>of the Country would seeme to endure so great a wic<g ref="char:EOLhyphen"/>kednesse, as a Supper on Friday out of <hi>Lent.</hi> And a<g ref="char:EOLhyphen"/>gaine in the same dialogue putting on the habit of an Inquisitor, hee seemes much offended with the liberty of a Frier, who should say in a Sermon against the order of the Church; <hi>Nihil vereamini,</hi> Feare nothing, if at night you doe for the weakenesse of your bodie eate one loafe, and drinke a pot of wine or ale. All the ridicu<g ref="char:EOLhyphen"/>lous delusions of fasting, and all the superstitions, are too many for the measure of my time. I will heere repeate one historie of manie.</p>
+            <p>In the time of <hi>Iustinian</hi> the Emperor, there had beene great Prodigies, and earth-quakes, and deluges of the Seas, and so great famine; whereuppon at <hi>Constantino<g ref="char:EOLhyphen"/>ple</hi> the Emperour in the second weeke of the <hi>Faste</hi> made proclamation that it should bee lawfull to sell and buy flesh in the Market. <hi>Et hoc quidem sic per vim factum.</hi> And this, saith he, was done by force. <hi>Populus <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>utem,</hi> but the people resolute in their Superstition of p<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>etie would neither eat nor buy flesh, rather choosing to famish of hunger, then to change any whit from the tradition of their inueterate manners. Those that please may ima<g ref="char:EOLhyphen"/>gine the people praise-worthy for their seuere obedi<g ref="char:EOLhyphen"/>ence vnto the lawes of the Church; rather then to accept the care of a prouident Prince. But for my part, I must hate the Bishops and Clergie then, who with their Ser<g ref="char:EOLhyphen"/>mons and threatnings, seeme to haue kept the people ob<g ref="char:EOLhyphen"/>stinate to famine and destruction. I must thinke of them as <hi>Iuuenall</hi> speakes of Egypt, <hi>Horrida sane Egyptus,</hi> indeed the Egyptians are euen vnto horror superstitious. They dare not kill a kid, nor bite a holy head of Leekes and onyons; <hi>Sed luxuria non cedit,</hi> but none more luxuri<g ref="char:EOLhyphen"/>ous
+<pb facs="tcp:177002:11"/>then they, when those people could not bee suppli<g ref="char:EOLhyphen"/>ed with herbes and fish, and not much store of flesh, a little to relieue nature, I must say againe in the language of the same Poet. <hi>Quisnam hominum veniam dare, quisue deorum, viribus abnuerit dira atque immania passis;</hi> would either God or man bee offended if such people did saue their liues with the slaughter of beasts: And if you will farther obserue, 'tis no lesse pittie or sad sport to behold the carriage of the Christian world in their preparation to this staruing time. in <hi>Rusland,</hi> and so in the Greeke Church, the second weeke before this great <hi>Faste,</hi> they call <hi>pièga nedela</hi> the pied weeke, as it were the weeke of two colours, because in that, they eate one day flesh, and on the other butter, and cheese, and white meates. The next weeke is called <hi>Maslanitsa,</hi> or <hi>Sirnou nedela,</hi> the butter-weeke, or cheese-weeke, because on euery day of that weeke, hauing left off flesh, they feede on cheese, and butter, and egges, and milke and their compounds. And in these weeks 'tis incredible of the ryots, and routs, and murders which I haue knowne. Scores of men with<g ref="char:EOLhyphen"/>in the walles of <hi>Muscow</hi> about this time two yeares were stript and murder'd in their drunkennesse, and by an or<g ref="char:EOLhyphen"/>der of the countrey taken vp from the steetes and carried in heapes on Carts, vnto publique view to bee seene by some officers of the castle, whether any of them did re<g ref="char:EOLhyphen"/>ceiue pay from the Emperor, to strike out their names. Vpon the yeare following, a Bride and Brides-groome, with Priest, and all their retinue of friends, in the eue<g ref="char:EOLhyphen"/>ning, as their manner is, were likewise stript and turned aliue vnder the yce of a Riuer which runs through the Citie, by villaines, who make a haruest from the luxu<g ref="char:EOLhyphen"/>rie and securitie of the time. And if <hi>Greece</hi> and <hi>Russia</hi>
+               <pb facs="tcp:177002:11"/>seeme too farre from beliefe, the Latine Church will af<g ref="char:EOLhyphen"/>ford neerer infamie. In <hi>Guazzo</hi> of ciuill conuersation, you shall read of those who like the Pagan Priests whip themselues with vizzard-faces, but so as they are proud to be knowne. In <hi>Castilions</hi> Courtier, who hath beene therefore blur'd by the <hi>Index expurgatorius,</hi> you shall likewise find a strange iolly preparation to the demure<g ref="char:EOLhyphen"/>nesse of <hi>Lent, come è vzanza di Roma,</hi> according to the vsance and custome of <hi>Rome,</hi> you shall finde strange maskes and base Pageants represented with all sluttish<g ref="char:EOLhyphen"/>nesse, and rotten egges, to the pleasing spectacle of great. Counts and holy Cardinals standing to take the view in bay windowes. Were it not to moue laughter in a place of earnest I would translate vnto you the whole Scene as 'tis there performed betwixt <hi>Bernardo Bibiena</hi> a gentleman worthily addicted to the scorne of Monkes, and a Quirie of the Cardinall of S. <hi>Peters</hi> stable in Monks habit.</p>
+            <p>In the Comment of <hi>Daniello</hi> vpon <hi>Dante,</hi> I reade also of one <hi>Vanni</hi> and his companions, how after their owne ryot in the common luxurious iollitie of this time in one <hi>Carnouall</hi> euening they rob'd the Church of <hi>Pistoia,</hi> and got away all their treasurie and rich Copes. If in scat<g ref="char:EOLhyphen"/>ter'd places, and by the way, wee reade of such Sacriledge and Paganisme and ryots in this preface of <hi>Lent,</hi> what abominations doe they know, who liue to see them? the stuffing Bacchanals of France on Fat-Tuesday, the like <hi>carnes liendas</hi> or <hi>tollendas</hi> in <hi>Spaine,</hi> and those <hi>Carnouals</hi> of <hi>Italie.</hi> Better still to keepe flesh then to make such foule <hi>Farewell,</hi> and that you imagine not any popish Land free from this scandall, they be the words of <hi>Busbe<g ref="char:EOLhyphen"/>quius</hi> in his third Epistle. <hi>Quo tempore apud nos etiam.</hi>
+               <pb facs="tcp:177002:12"/>In this time with vs also, euen in the best order'd Cities, not in Leaguers onely, <hi>omnia perstrepunt ludo,</hi> all are in a noyse and hurly with playes and moriscoes, and songs and clamorous feasts, and drunkennesse and furious madnesse. In so much, saith he, as in his returne from vs, it was the beleefe and a relation of a Turkish Embas<g ref="char:EOLhyphen"/>sador vnto to the great Sultan, that on certaine dayes all the Christians were euen as mad as <hi>Bacchus</hi> Priests and as he thought on wednesday they did againe recouer their wits and health, with a certaine kinde of ashes sprinkled on their heads in the Church.</p>
+            <p>It forces me to stay longer in this bogge and marrasse of <hi>Lent.</hi> Those who are better acquainted with Ecclesi<g ref="char:EOLhyphen"/>asticall antiquitie, shall finde that th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>se manners also haue beene an inueterate disease of the Chuch. I am sure 'tis the complaint of S<seg rend="sup">t</seg>. <hi>Basill.</hi> It being then the fashion not to faste the Saturdayes and Sundayes of <hi>Lent,</hi> such wordes hee vses vnto his auditorie. <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, like trauailers, saith hee, who pur<g ref="char:EOLhyphen"/>pose a long iourney, to day they furnish their bodies with wine, against the other fiue of faste, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. In those two they dranke as if they would take re<g ref="char:EOLhyphen"/>uenge of the other fiue before hand; and in these fiue they dranke water, that in these two againe they might carouse with more capable stomackes. <hi>Lent</hi> in his quar<g ref="char:EOLhyphen"/>ter and time was euen but a quarrel betwixt staruing and drunkennesse. It will be nothing tedious, if I yet repeate his owne words, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. Com<g ref="char:EOLhyphen"/>pare the euening of this day with to morrows worke. In one you may see the Citie like a ship riding in a faire qui<g ref="char:EOLhyphen"/>et harbor, after a storme at Sea: againe, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. See the countenance of men to day;
+<pb facs="tcp:177002:12"/>see the same to morrow. Now they are swel'd, springing forth a dew of faint sweate; their eyes are most, promi<g ref="char:EOLhyphen"/>nent, almost depriued of sight with a cloud of indigested humours rising from their drown'd stomacks. To mor<g ref="char:EOLhyphen"/>row you shall see all countenances more composed, graue, of naturall colour, promising, considerate, of quicke apprehension, hauing within nothing offen<g ref="char:EOLhyphen"/>siue to trouble or darken the sight and powers of the soule. Such is the businesse of <hi>Lent,</hi> of faint authoritie, of foule practice. And what shall wee then say? I must first say that I haue not much beliefe in the many Pane<g ref="char:EOLhyphen"/>gyricks of <hi>Lent</hi> which I finde in ancient and moderne writers. If they be not excessiue, heare first and then iudge as you please.</p>
+            <p>In many Countreyes they haue close roomes heated with ouens to make men sweat out all the filth of their bodies. They bee in <hi>Germany, Sweden, Poland, Rusland, Turkey,</hi> and <hi>Barbery.</hi> They are called Bath-Stoues, <hi>bag<g ref="char:EOLhyphen"/>ni, bagnari.</hi> To them the married rise from their beds to wash of the night; to them the trauailer goes to refresh the wearinesse of his limmes, the sicke man for cure, and they that are wel for preuention of diseases, and per<g ref="char:EOLhyphen"/>aduenture with some reference to this, they be the words of S<seg rend="sup">t</seg>. <hi>Chrysost.</hi> in his first <hi>Lent-Homely,</hi> on <hi>Genesis,</hi>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, like a louing father God the vniuersal father of all families, he hath appointed the Physick of this <hi>Fast,</hi>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, the cure and remedie of <hi>Lent,</hi>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, by it as in a Bath<g ref="char:EOLhyphen"/>stoue to purge and wash of all the spungy vncleannesse of those sinnes which in the whole course of the yeare be<g ref="char:EOLhyphen"/>fore wee haue gather'd about our soules, and bodies. Wherefore Saint <hi>Basill</hi> also tels his Auditorie, that in all
+<pb facs="tcp:177002:13"/>Churches God hath appointed Angels to write vp the number of so many heads as by their leannesse and pale<g ref="char:EOLhyphen"/>nesse of fasting may seeme to yeeld themselues his pa<g ref="char:EOLhyphen"/>tients.</p>
+            <p>These and many such like are the perswasions con<g ref="char:EOLhyphen"/>cerning <hi>Lent</hi> in ancient times, and in ours there be also many who imagine no lesse. Let one speake for all. And verily, saith he, I haue sundry times had this cogitation in <hi>Italie,</hi> that in great loosenesse of life and decay of disci<g ref="char:EOLhyphen"/>pline in those parts, it was the speciall great mercy and grace of God, that the seueritie of <hi>Lent</hi> should bee still preserued, lest otherwise the floods of sinne growing so headstrong and out ragious, and hauing no where either bound, or banck to restraine them, might plunge that whole nation into such a gulph of wickednes, and bring them to the last extremitie, which should leaue neither hope for better, nor place for worse; yea, and I was so farre from thinking the institution of <hi>Lent</hi> superfluous, that I rather enclined to like the custome of the Greeke Church, who haue beside their great <hi>Lent,</hi> three other <hi>Lents,</hi> euery yeare. But insteed of such perswasions and extaticall Elogies of <hi>Lent,</hi> I must say, <hi>Non tantì emam poenitere.</hi> The repentance of <hi>Lent</hi> is not worth the loosenesse of the <hi>Carnouall,</hi> and the supersti<g ref="char:EOLhyphen"/>tion of it selfe in any papisticall territorie; and I must rather say and beleeue with <hi>Cassianus</hi> and <hi>Socrates,</hi>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. That the vse and precept of <hi>Lent</hi> is not so high as the age of Christ or his Apostles, and that a countrey frugall man<g ref="char:EOLhyphen"/>ner of life and dyet doth more piously and innocent<g ref="char:EOLhyphen"/>ly prepare Christians for the holy Sacrament of <hi>Easter,</hi> then any Papall Monasticall Italian sadnesse, as wee
+<pb facs="tcp:177002:13"/>may read at large in an Epistle of <hi>Budaeus</hi> to <hi>Germanus Brixius.</hi>
+            </p>
+            <p>Yet let no man mistake an error from mee, who am rather a Scepticke in the greatest part of Diuinitie, I prescribe no new Lawes to any Common-wealth. Those who please to retaine <hi>Lent,</hi> let them retaine it still in Gods name vnto the end for which it may seeme in elder times to haue been first ordained, to pre<g ref="char:EOLhyphen"/>pare men through sobrietie abstinence, and prayer, for the great mystery and solemnitie of Christs passion. I heare the voyce of the Apostle. What art thou that iudgest another mans seruant? <hi>Vnusquisque in sensu suo abundet.</hi> Let euery man be fully perswaded in his owne minde. If any Common-wealth for their owne good, with mature aduice and order, shall, or haue thought fit to circumcise the number of forty dayes, or abrogate other manners of <hi>Lent.</hi>
+            </p>
+            <p>I heare againe the Apostle <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. Let no man therefore iudge you in meate or drinke. Perad<g ref="char:EOLhyphen"/>uenture reason would bid me say with <hi>Erasmus, Cor<g ref="char:EOLhyphen"/>narius,</hi> and <hi>Fuchsius</hi> that herrings and water are not healthy in the spring season, and that if <hi>Wednesday</hi> and <hi>Friday,</hi> or <hi>Friday</hi> and <hi>Saturday,</hi> which are many diffe<g ref="char:EOLhyphen"/>rences betwixt the <hi>Greeke</hi> and <hi>Latine</hi> Church were more strictly obseru'd for <hi>Faste,</hi> the great <hi>Fast</hi> of <hi>Lent</hi> might bee of lesse necessitie, although the due obser<g ref="char:EOLhyphen"/>uance of that and <hi>Easter,</hi> according to the very time not rightly order'd be in the phantasie of <hi>Oswaldus S<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>bricken<g ref="char:EOLhyphen"/>fuchsius</hi> the maine cause of all the miseries and ca<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>amities of the Christian world. But heedlesse of these and the like censures, let people in all places frame themselues so
+<pb facs="tcp:177002:14"/>neerely as they can in all Countreys vnto obedience of those who sit in the chayre of the Church. <hi>Non placet ab istis stare,</hi> saith <hi>Erasmus;</hi> I will neuer range my selfe in their opposite side; who scorne all Cannons and Constitutions of the Church, <hi>Ob hoc ipsum multa faciunt quia praeceptum est ne faciant.</hi> Many such crooked people there bee, who haue an enuious spight against all order, and from euery honest institution learne one<g ref="char:EOLhyphen"/>ly to make a new Sinne of rebellious obstinacie. As <hi>Tacitus</hi> speakes of the Iewes' <hi>Nouos citus contrarios{que} ca<g ref="char:EOLhyphen"/>teris mortalibus,</hi> They haue euer new rites and cere<g ref="char:EOLhyphen"/>monies of their owne contrary to ours, <hi>Prophana illis omnia quae apud nos sacra.</hi> They stubborn<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ly prophane all things that order and discipline do's any where keep holy. 'Tis vsefull for vs of Great <hi>Brittaine venerari cani<g ref="char:EOLhyphen"/>ciem Quadragesimae,</hi> to reuerence the gray hayres of <hi>Lent</hi> in her Antiquitie, and by that meanes preserue a greater store of young cattle for a more large supply of the following yeare, With vs the abuses are not great, the superstition and deadly conscience is abated. And 'tis no impossibilitie for willing men to eate fish and but<g ref="char:EOLhyphen"/>ter, and egges, and white-meats, and bacon in sixe weekes of the spring, and yet sufficiently maintaine our health in a frugall and sparing dyet. Man liues not by bread onely. I may adde not by flesh onely to speake right in imitation of the Euangelist, but by the power &amp; efficacie of God in all his creatures. There bee many nations who feede not so well, they haue no flesh but fish for meate, and dryed fish for bread, and horse-flesh without bread; and yet they liue in health. And if length of yeeres be a blessing; they liue as aged as we and goe as lustie into their graues the period of all feed<g ref="char:EOLhyphen"/>ing,
+<pb facs="tcp:177002:14"/>the resorte of any dyet by whatsoeuer, which is not alwayes of the same delight and Estimation, As <hi>Iouius</hi> hath admonisht vs in his booke of the <hi>Romane</hi> fishes; whereas, saith hee, the old <hi>Romane</hi> Luxurie sought all creekes, and bankes, and coues of the sea, with their hookes and nets, to furnish their Tables with fish. <hi>Nos vero contra,</hi> our luxurie is growne so different of taste, as if Law did not restraine appetite wee would feed willingly on nothing but Capons, and Pheasants, and partridge, after a foundation of beenes and <gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ut<g ref="char:EOLhyphen"/>tons. <hi>Tantum abest,</hi> Wee are so farre from a lust of fish, <hi>vt quadragenis illis verni ieiunij diebus, ne{que} deorum me<g ref="char:EOLhyphen"/>tu ne{que} infamia permoti, aliquando ad vorandas carnes detestanda cupiditate rapiamur.</hi> That in the 40. dayes of Spring faste, without all feare of God or men. We are often carried away with a detestable lust of de<g ref="char:EOLhyphen"/>nouring flesh.</p>
+            <p>It pleases the Bishop to speake as horribly of eating a little flesh in <hi>Lent,</hi> as <hi>Lerius</hi> could not, and do's not more, nor any <hi>American</hi> historie in description of <hi>Bra<g ref="char:EOLhyphen"/>sill</hi> or <hi>Caribana,</hi> in their inhabitants feasting and graw<g ref="char:EOLhyphen"/>ing lusciously vpon the halfe-broyl'd armes and legs and paunches of their captiue enemies. We are not so fierce of conscience in such matters as <hi>Iouius</hi> and the <hi>Roman</hi> Consistory. Onely let vs be modest and ciuill in our cu<g ref="char:EOLhyphen"/>stome of <hi>Lent.</hi> Let vs labour to correct our stomacks, if the Bodie will not otherwise reigne gently. <hi>Equo feroci<g ref="char:EOLhyphen"/>enti subtrahendum est paululum,</hi> saith S<seg rend="sup">t</seg>. <hi>Ierome.</hi> The wilde vnquiet horse must haue lesse prouender. And let vs blesse God that we are borne and bred in a Land, where 'tis not equall danger to open an egge and murder a man. For the one, there is Sanctuary amongst them, and
+<pb facs="tcp:177002:15"/>many villanous cowards enioy the priuiledge in Spaine and Italy.</p>
+            <p>But I wonder much if a prophane <hi>Lent</hi> Egge-eater, should not bee haled from any reliefe either of Altar or Monasterie. Nay, the Inquisition will persecute such crimes if they bee able, euen after death on the very ghosts and spirits of the offenders. <hi>Quid igitur quòd audi<g ref="char:EOLhyphen"/>mus parochos nostros. Erasmus</hi> is a wise butcher in his owne Dialogue. Why then, faith hee, doe wee heare our Parish-Vicars cry lowd from their pewes, <hi>Cras ieiu<g ref="char:EOLhyphen"/>nandum sub poenae aeternae damnationis,</hi> To morrow the Church bids a <hi>Faste</hi> vnder paine of eternall damna<g ref="char:EOLhyphen"/>tion.</p>
+            <p>I will now quickly conclude. If wee eate, let vs eate so as wee neither oppresse nor drowne all vertue in our bodies with gluttonie and drunkennesse. If wee faste, let vs so faste that wee doe not pine and starue our vertue which requires an able and an actiue bodie. While Monkes, and Anchorites, and Eremites and the Diuell in a Iesuite, doe boast peruersly of a mortifying <hi>Lent,</hi> of whipping themselues, of looking fiercely like Basilisks, of kissing the earth thrice a day, of howling, of sigh<g ref="char:EOLhyphen"/>ing, of beating their breasts, of going bare-foote, of go<g ref="char:EOLhyphen"/>ing ragged, of lying like dogges vnder benches and tables, and licking their meate out of the dust, of faining dumnesse, deafnesse, blindnesse, of wormes and nasti<g ref="char:EOLhyphen"/>nesse in their teeth with fasting, let vs liue and be sober: for 'tis easier saith S<seg rend="sup">t</seg>. <hi>Basill</hi> to perswade fast then sobrie<g ref="char:EOLhyphen"/>tie, and they bee the safe words of the Apostle. The Kingdome of God is not meate and drinke, but righte<g ref="char:EOLhyphen"/>ousnesse, and peace, and ioy in the holy Ghost; and againe, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, an ascheticall bringing of
+<pb facs="tcp:177002:15"/>the bodie vnder with Faste, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, 'tis a little auailable, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, but true pietie, true Religi<g ref="char:EOLhyphen"/>on, which, as S<seg rend="sup">t</seg>. <hi>Iames</hi> would expound it, consists in comforting the afflictions of widdowes and Orphanes in cleannesse and innocencie of life, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, 'Tis an vniuersall good, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, It hath promise both of this world, &amp; the world to come. If it be Gods good pleasure here on earth, to be<g ref="char:EOLhyphen"/>gin his mercies vnto vs in health and fortune of this world, 'tis happy to haue the fruition of both; yet the <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ast will bee enough rewarde.</p>
+            <p>Wee shall in the harbor of that world, quickly forget all the trauailes, and stormes, and gusts and miseries of this poore mortalitie, which hoyses vp fooles, and makes wise men mad with an ouer-pressure of afflicti<g ref="char:EOLhyphen"/>on, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, saith <hi>Epiphanius.</hi> And then the grossenes of our bodies, which now must bee so often repair'd with meat, shal be turned into a substance as passing and nimble as the Soule; without surfet, without staruing, as the Angels which are in Heauen incorruptible, vnchangeable, blessed for all e<g ref="char:EOLhyphen"/>ternitie. And then I shall want no art of memo<g ref="char:EOLhyphen"/>rie. This life God grant vs all. <hi>Amen.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
